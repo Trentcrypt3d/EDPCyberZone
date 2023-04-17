@@ -1,0 +1,74 @@
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\ok.exe
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\ok.deps.json
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\ok.runtimeconfig.json
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\ok.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\ok.pdb
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\stren\source\repos\ok\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.vbproj.AssemblyReference.cache
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.LoginForm1.resources
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.vbproj.GenerateResource.cache
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.AssemblyInfoInputs.cache
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.AssemblyInfo.vb
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.vbproj.CoreCompileInputs.cache
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.vbproj.CopyComplete
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.dll
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\refint\ok.dll
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.pdb
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.genruntimeconfig.cache
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ref\ok.dll
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.HomePage.resources
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.Resources.resources
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.Categories.resources
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.Accounts.resources
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.Customers.resources
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.Orders.resources
+C:\Users\stren\source\repos\ok\ok\obj\Debug\net6.0-windows\ok.Products.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\ok.exe
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\ok.deps.json
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\ok.runtimeconfig.json
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\ok.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\ok.pdb
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.vbproj.AssemblyReference.cache
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.Accounts.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.Categories.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.Customers.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.HomePage.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.LoginForm1.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.Resources.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.Orders.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.Products.resources
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.vbproj.GenerateResource.cache
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.AssemblyInfoInputs.cache
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.AssemblyInfo.vb
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.vbproj.CoreCompileInputs.cache
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.vbproj.CopyComplete
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\refint\ok.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.pdb
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.genruntimeconfig.cache
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ref\ok.dll
+C:\Users\stren\source\repos\Dollentas, CyberZone BSIT 3-B\ok\obj\Debug\net6.0-windows\ok.AddProduct.resources
