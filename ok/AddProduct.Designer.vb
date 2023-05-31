@@ -33,6 +33,7 @@ Partial Class AddProduct
         Me.TextBox3 = New System.Windows.Forms.TextBox()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.BtnBack = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -129,11 +130,21 @@ Partial Class AddProduct
         Me.TextBox4.TabIndex = 10
         Me.TextBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
+        'BtnBack
+        '
+        Me.BtnBack.Location = New System.Drawing.Point(12, 34)
+        Me.BtnBack.Name = "BtnBack"
+        Me.BtnBack.Size = New System.Drawing.Size(75, 23)
+        Me.BtnBack.TabIndex = 11
+        Me.BtnBack.Text = "Back"
+        Me.BtnBack.UseVisualStyleBackColor = True
+        '
         'AddProduct
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(738, 365)
+        Me.Controls.Add(Me.BtnBack)
         Me.Controls.Add(Me.TextBox4)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.TextBox3)
@@ -163,4 +174,5 @@ Partial Class AddProduct
     Friend WithEvents TextBox3 As TextBox
     Friend WithEvents Label5 As Label
     Friend WithEvents TextBox4 As TextBox
+    Friend WithEvents BtnBack As Button
 End Class

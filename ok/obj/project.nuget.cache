@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "y6e0DV/pxxGvM9cgOg1lsVwi3f4na2Hc70s8cSFpDI2LvTNUeaNNF27NC+/9urXtq1+85LF8xKfbYhNI+lIjdA==",
+  "dgSpecHash": "ojfAWexliMT/oAwqfmMBmm9FEnhmbr6lrpcF1t5uPpB72kgezKqpXRQcQzocXUEj3z4byAbs6XT++p8L8AvhjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\stren\\source\\repos\\Dollentas, CyberZone BSIT 3-B\\ok\\ok.vbproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\stren\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
     "C:\\Users\\stren\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\stren\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\stren\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\stren\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\stren\\.nuget\\packages\\mysql.data\\8.0.32.1\\mysql.data.8.0.32.1.nupkg.sha512",
     "C:\\Users\\stren\\.nuget\\packages\\mysqlbackup.net\\2.3.8\\mysqlbackup.net.2.3.8.nupkg.sha512",

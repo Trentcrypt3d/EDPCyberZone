@@ -1,8 +1,19 @@
 ﻿Imports System.IO
+Imports MySql.Data.MySqlClient
 
 Public Class Products
-    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataViewDiagram.CellContentClick
+    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgProductPage.CellContentClick
+        Connect_to_DB()
 
+        Dim sql As String = "SELECT * FROM products"
+        Dim dataAdapter As New MySqlDataAdapter(sql, myconn)
+        Dim dataSet As New DataSet()
+
+        dataAdapter.Fill(dataSet, sql)
+        myconn.Close()
+
+
+        dgProductPage.DataSource = dataSet.Tables(sql)
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -33,11 +44,31 @@ Public Class Products
                     End While
                 End Using
 
-                DataViewDiagram.DataSource = table
+                dgProductPage.DataSource = table
                 MessageBox.Show("File loaded successfully")
             Catch ex As Exception
                 MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
             End Try
         End If
+    End Sub
+
+    Private Sub BtnBack_Click(sender As Object, e As EventArgs) Handles BtnBack.Click
+        HomePage.Show()
+        Me.Hide()
+    End Sub
+
+    Private Sub Products_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Connect_to_DB()
+
+        Dim sql As String = "SELECT * FROM products"
+        Dim dataAdapter As New MySqlDataAdapter(sql, myconn)
+        Dim dataSet As New DataSet()
+
+        dataAdapter.Fill(dataSet, sql)
+        myconn.Close()
+
+
+        dgProductPage.DataSource = dataSet.Tables(sql)
+
     End Sub
 End Class

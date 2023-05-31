@@ -23,10 +23,10 @@ Partial Class Products
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.BtnBack = New System.Windows.Forms.Button()
-        Me.DataViewDiagram = New System.Windows.Forms.DataGridView()
+        Me.dgProductPage = New System.Windows.Forms.DataGridView()
         Me.BtnAddProduct = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
-        CType(Me.DataViewDiagram, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.dgProductPage, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'BtnBack
@@ -38,14 +38,14 @@ Partial Class Products
         Me.BtnBack.Text = "Back"
         Me.BtnBack.UseVisualStyleBackColor = True
         '
-        'DataViewDiagram
+        'dgProductPage
         '
-        Me.DataViewDiagram.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataViewDiagram.Location = New System.Drawing.Point(140, 40)
-        Me.DataViewDiagram.Name = "DataViewDiagram"
-        Me.DataViewDiagram.RowTemplate.Height = 25
-        Me.DataViewDiagram.Size = New System.Drawing.Size(544, 194)
-        Me.DataViewDiagram.TabIndex = 1
+        Me.dgProductPage.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgProductPage.Location = New System.Drawing.Point(140, 40)
+        Me.dgProductPage.Name = "dgProductPage"
+        Me.dgProductPage.RowTemplate.Height = 25
+        Me.dgProductPage.Size = New System.Drawing.Size(544, 194)
+        Me.dgProductPage.TabIndex = 1
         '
         'BtnAddProduct
         '
@@ -64,7 +64,7 @@ Partial Class Products
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(142, 23)
         Me.Button1.TabIndex = 3
-        Me.Button1.Text = "Upload"
+        Me.Button1.Text = "Export"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'Products
@@ -74,17 +74,17 @@ Partial Class Products
         Me.ClientSize = New System.Drawing.Size(800, 421)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.BtnAddProduct)
-        Me.Controls.Add(Me.DataViewDiagram)
+        Me.Controls.Add(Me.dgProductPage)
         Me.Controls.Add(Me.BtnBack)
         Me.Name = "Products"
         Me.Text = "Product Page"
-        CType(Me.DataViewDiagram, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.dgProductPage, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
 
     Friend WithEvents BtnBack As Button
-    Friend WithEvents DataViewDiagram As DataGridView
+    Friend WithEvents dgProductPage As DataGridView
     Friend WithEvents BtnAddProduct As Button
     Friend WithEvents Button1 As Button
 End Class
